@@ -1,0 +1,20 @@
+
+
+    Directory: C:\Users\jennie\source\repos\RazorPagesMovie\RazorPagesMovie
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         2019/7/21 下午 04:10                bin
+d-----         2019/7/22 下午 04:32                obj
+d-----         2019/7/21 下午 04:10                Pages
+d-----         2019/7/21 下午 04:10                Properties
+d-----         2019/7/22 下午 03:54                Services
+d-----         2019/7/21 下午 04:10                wwwroot
+-a----         2019/7/21 下午 04:10            146 appsettings.Development.json
+-a----         2019/7/21 下午 05:02            274 appsettings.json
+-a----         2019/7/22 下午 05:13           1004 CurrentDirFileInfo1.txt
+-a----         2019/7/22 下午 04:09           1903 Program.cs
+-a----         2019/7/22 下午 04:55           1400 RazorPagesMovie.csproj
+-a----         2019/7/22 下午 03:59            168 RazorPagesMovie.csproj.user
+-a----         2019/7/22 下午 04:55           5383 Startup.cs
+
